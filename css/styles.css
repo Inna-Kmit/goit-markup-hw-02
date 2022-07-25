@@ -20,7 +20,7 @@ body {
   list-style: none;
 }
 
-.header-contackts-item {
+.header-contackts {
   text-decoration: none;
 }
 .header-logo {
@@ -66,28 +66,15 @@ body {
 }
 
 /*---header contacts---*/
-
-.header-contacts-telephone {
+.header-contacts {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--second-text-color);
 }
-.header-contacts-email {
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.14;
-  letter-spacing: 0.02em;
-  color: var(--second-text-color);
-}
-.header-contacts-email:hover,
-.header-contacts-email:focus {
-  color: var(--accent-color);
-}
-
-.header-contacts-telephone:hover,
-.header-contacts-telephone:focus {
+.header-contacts:hover,
+.header-contacts:focus {
   color: var(--accent-color);
 }
 
