@@ -5,8 +5,8 @@
   --second-text-color: #757575;
   --footer-background: #2f303a;
   --background-color: #ffffff;
-  --background-buttom-color:#f5f4fa;
-  --lighter-color:rgba(255, 255, 255, 0.6);
+  --background-buttom-color: #f5f4fa;
+  --lighter-color: rgba(255, 255, 255, 0.6);
   --black-color: #000000;
 }
 
@@ -64,7 +64,7 @@ body {
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
-  color:var(--black-color);
+  color: var(--black-color);
 }
 .header-blue-logo {
   font-family: 'Raleway', sans-serif;
@@ -183,9 +183,9 @@ body {
   text-align: center;
   border-radius: 4px;
   border-style: none;
-  letter-spacing: 0.03em
-  color: var(--primary-text-color)
-  background-color: var(--background-buttom-color)
+  letter-spacing: 0.03em;
+  color: var(--primary-text-color);
+  background-color: var(--background-buttom-color);
 }
 
 .filter-buttom:hover,
@@ -194,7 +194,7 @@ body {
   color: var(--background-color);
 }
 .filter-buttom {
-cursor: pointer;
+  cursor: pointer;
 }
 .portfolio-list-title {
   font-size: 18px;
@@ -228,7 +228,7 @@ cursor: pointer;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
-  color: var(--lighter-color)
+  color: var(--lighter-color);
 }
 .footer-link:hover,
 .footer-link:focus {
